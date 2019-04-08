@@ -45,4 +45,4 @@ SELECT COUNT(*) from songplays;
 >>> Out[1]: count 6820
 
 ## License
-[MIT]('./LICENSE')
+[MIT](LICENSE)
